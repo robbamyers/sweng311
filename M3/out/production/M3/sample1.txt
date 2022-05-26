@@ -1,0 +1,11 @@
+Please enter the m-value of line 1:
+1
+Please enter the b-value of line 1:
+1
+Please enter the m-value of line 2:
+1
+Please enter the b-value of line 2:
+1
+Lines do not intersect
+
+Process finished with exit code 0

@@ -1,0 +1,9 @@
+Please enter the m-value of line 1:
+159.293
+Please enter the b-value of line 1:
+8234234234.2
+Please enter the m-value of line 2:
+1284124.2
+Please enter the b-value of line 2:
+18234123.1
+These lines intersect at (6398.929, 8235253538.776)
